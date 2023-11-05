@@ -1,0 +1,9 @@
+This is the bootloader manual page for BetterServer.
+BetterServer is a os ment for x86_64 servers. it works on x86_64 processors and works well on them.
+** INSTALLATION **
+1. Download the BetterServer image from the website.
+2. Untar the tar.xz file.
+3. Enter the following command:
+dd if=BetterServer-1.0.tar.xz of=/dev/your_installation_device bs=512 status=progress
+4. Boot from the your installation device.
+5. Enjoy!
