@@ -1,2 +1,0 @@
-This is the bootloader manual page for BetterServer.
-BetterServer is a os ment for x86_64 servers. it works on x86_64 processors and works well on them.
